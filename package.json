@@ -12,7 +12,6 @@
     "colors": "^1.1.2",
     "figures": "^2.0.0",
     "graceful-fs": "^4.1.11",
-    "minimist": "^1.2.0",
-    "mv": "^2.1.1"
+    "yargs-parser": "^9.0.2"
   }
 }
