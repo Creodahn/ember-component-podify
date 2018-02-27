@@ -9,8 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.1.2",
-    "figures": "^2.0.0",
     "graceful-fs": "^4.1.11",
     "yargs-parser": "^9.0.2"
   }
